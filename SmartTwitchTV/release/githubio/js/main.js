@@ -7002,7 +7002,7 @@
                     w(window.location.href, "code") && IS(window.location.href),
                     (Jx = g("scene1")),
                     (Xx = g("scene2")),
-                    (Yx = g("dialog_about")),
+                    // (Yx = g("dialog_about")),
                     $m(),
                     (GJ = g("side_panel_fix")),
                     (RJ = g("side_panel_movel")),
